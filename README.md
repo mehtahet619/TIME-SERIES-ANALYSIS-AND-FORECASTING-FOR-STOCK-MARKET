@@ -35,6 +35,8 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 └── saved_models/
 └── my_stock_prediction_model.h5 
 
+---
+
 # 🧪 Model Overview
 
 **LSTM Layers:**
@@ -45,6 +47,8 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 -Loss: Mean Squared Error (MSE)
 -Optimizer: Adam
 -Epochs: 100 (configurable)
+
+---
 
 # 🧰 Technologies Used
 
