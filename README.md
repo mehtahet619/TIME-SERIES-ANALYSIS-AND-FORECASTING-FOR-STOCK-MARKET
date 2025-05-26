@@ -52,11 +52,12 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
 # 🧰 Technologies Used
 
-Python
-Pandas, NumPy
-TensorFlow / Keras
-Matplotlib / Plotly
-Gradio
+-Python
+-Pandas
+-NumPy
+-TensorFlow / Keras
+-Matplotlib / Plotly
+-Gradio
 
 ---
 
