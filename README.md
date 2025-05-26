@@ -21,9 +21,11 @@ This project uses an LSTM (Long Short-Term Memory) neural network to forecast st
 - Host the app using Gradio
 
 ---
-# Research Papers
+# Research Papers referred-
 - Stock Market Prediction Using LSTM Recurrent Neural Network by Adil MOGHARa* ,Mhamed HAMICHEb
 https://www.sciencedirect.com/science/article/pii/S1877050920304865 
+
+---
 
 ## 📂 Project Structure
 ├── Apple_Stock_Forecasting.ipynb 
