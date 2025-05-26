@@ -40,13 +40,13 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 # 🧪 Model Overview
 
 **LSTM Layers:**
--1st LSTM (50 units) + Dropout(0.2)
--2nd LSTM (50 units) + Dropout(0.2)
--Dense Layer (1 unit)
+- 1st LSTM (50 units) + Dropout(0.2)
+- 2nd LSTM (50 units) + Dropout(0.2)
+- Dense Layer (1 unit)
 
--Loss: Mean Squared Error (MSE)
--Optimizer: Adam
--Epochs: 100 (configurable)
+- Loss: Mean Squared Error (MSE)
+- Optimizer: Adam
+- Epochs: 100 (configurable)
 
 ---
 
