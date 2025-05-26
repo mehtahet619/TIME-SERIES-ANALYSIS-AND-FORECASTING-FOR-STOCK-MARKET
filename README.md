@@ -21,41 +21,35 @@ This project uses an LSTM (Long Short-Term Memory) neural network to forecast st
 - Host the app using Gradio
 
 ---
+# Research Papers
+- Stock Market Prediction Using LSTM Recurrent Neural Network by Adil MOGHARa* ,Mhamed HAMICHEb
+https://www.sciencedirect.com/science/article/pii/S1877050920304865 
 
 ## 📂 Project Structure
-├── Apple_Stock_Forecasting.ipynb # Model and Gradio app for UI
-├── utils.py # Data preprocessing and helpers
-├── requirements.txt # List of dependencies
-├── README.md # Project documentation
+├── Apple_Stock_Forecasting.ipynb 
+├── utils.py 
+├── requirements.txt
+├── README.md 
 └── saved_models/
-└── my_stock_prediction_model.h5 # Pre-trained LSTM model
+└── my_stock_prediction_model.h5 
 
 # 🧪 Model Overview
 
-LSTM Layers:
+**LSTM Layers:**
+-1st LSTM (50 units) + Dropout(0.2)
+-2nd LSTM (50 units) + Dropout(0.2)
+-Dense Layer (1 unit)
 
-1st LSTM (50 units) + Dropout(0.2)
-
-2nd LSTM (50 units) + Dropout(0.2)
-
-Dense Layer (1 unit)
-
-Loss: Mean Squared Error (MSE)
-
-Optimizer: Adam
-
-Epochs: 100 (configurable)
+-Loss: Mean Squared Error (MSE)
+-Optimizer: Adam
+-Epochs: 100 (configurable)
 
 # 🧰 Technologies Used
 
 Python
-
 Pandas, NumPy
-
 TensorFlow / Keras
-
 Matplotlib / Plotly
-
 Gradio
 
 ---
